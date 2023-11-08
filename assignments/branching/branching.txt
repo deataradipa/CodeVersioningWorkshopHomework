@@ -1,3 +1,6 @@
 Summary about branching:
 Branching is a way to diverge from the current version, 
 we can say it's like copying the current version without doing it manually.
+
+For example, we are currently in main, then we create a new branch called myBranch,
+myBranch will contain the exact codes as main branch.
