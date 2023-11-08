@@ -1,1 +1,2 @@
+Summary about merging:
 Merging is an action to combine changes that we made in one branch into another branch.
