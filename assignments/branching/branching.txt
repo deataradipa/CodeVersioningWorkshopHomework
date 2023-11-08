@@ -1,1 +1,3 @@
-Branching is a way to diverge from the current version, in a way, it's copying the current version without doing it manually
+Summary about branching:
+Branching is a way to diverge from the current version, 
+we can say it's like copying the current version without doing it manually.
