@@ -1,1 +1,2 @@
-this is added fom feature branch
+this is added fom feature branch.
+In this branch, I'm adding a new text file called feature.txt
