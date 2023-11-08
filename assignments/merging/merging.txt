@@ -1,2 +1,5 @@
 Summary about merging:
 Merging is an action to combine changes that we made in one branch into another branch.
+
+For example, after creating a new branch called myBranch and added several lines of code,
+if we merge myBranch with main, our changes will be available in the main branch.
